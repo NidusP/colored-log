@@ -1,3 +1,6 @@
+# colored-log
+a colorful `console.log` tool
+
 `\x1b[(文字装饰);(颜色代码):`
 
 1、字背景颜色范围
